@@ -6,3 +6,16 @@ I was always fascinated by the food culture of Bangalore. Restaurants from all o
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of restaurants at different places in Bangalore.
 
 Using an LSTM model, sentiment analysis of reviews(classified as positive and negative) has been performed, submitted by customers and users. 
+
+
+The entire dataset can be downloaded from :
+https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants.
+
+The .py files to be viewed in order:
+1.eda.py
+2.topic_modelling.py
+3.Sentiment Analysis.py
+
+An exhaustive approach of data analysis, of the dataset, has been done. All major aspects have been analysed.
+
+The model achieved an accuracy of about 0.95 and a loss of 0.12 with the model configs mentioned in the file. 
